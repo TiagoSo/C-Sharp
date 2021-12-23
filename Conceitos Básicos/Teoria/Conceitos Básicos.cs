@@ -129,4 +129,6 @@ int y = ++x;                                     int y1 = x1++;
 |   <<<Convertendo os valores da string>>>   |
 |---------------------------------------------
 Converte o valor especificado em sua representação de string equivalente.
-Existem diversos, cada uma com funções diferentes
+Existem diversos, cada uma com funções diferentes.
+  Para tal recorre-se ao site da Microsoft para ver qual destas conversões se adequa ao nosso Programa.
+  ( https://docs.microsoft.com/en-us/dotnet/api/system.convert.tostring?view=net-6.0#System_Convert_ToString_System_DateTime_ )
